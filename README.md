@@ -1,6 +1,6 @@
 # Certificates
 
-Every public credential of [Mohammed Saad](https://simplesaad.com): **192** since 2017, from 21 issuers.
+Every public credential of [Mohammed Saad](https://simplesaad.com): **194** since 2017, from 22 issuers.
 
 Where the issuer has an official verification page, the link goes there. Otherwise it opens the certificate file in this repo. Personal contact details are blacked out where a certificate arrived by email.
 
@@ -17,7 +17,7 @@ Generated from a private list; please don't open pull requests.
 - [Microsoft](#microsoft) (12)
 - [Kaggle](#kaggle) (10)
 - [OpenAI](#openai) (10)
-- [LinkedIn Learning](#linkedin-learning) (6)
+- [LinkedIn Learning](#linkedin-learning) (7)
 - [Udemy](#udemy) (5)
 - [Aishwarya Naresh Reganti & Kiriti Badam](#aishwarya-naresh-reganti--kiriti-badam) (1)
 - [Amazon Web Services](#amazon-web-services) (1)
@@ -28,6 +28,7 @@ Generated from a private list; please don't open pull requests.
 - [Hugging Face](#hugging-face) (1)
 - [Internshala](#internshala) (1)
 - [KPMG](#kpmg) (1)
+- [Santander Open Academy](#santander-open-academy) (1)
 - [Secure Code Warrior](#secure-code-warrior) (1)
 
 ## Analytics Vidhya
@@ -250,6 +251,7 @@ Generated from a private list; please don't open pull requests.
 
 | Date | Credential | Link |
 |---|---|---|
+| 2024-12 | Introduction to Prompt Engineering for Generative AI (2023) | [View](linkedin-learning/certificate-linkedin-intro-to-prompt-engineering-for-generative-ai_saad_2024-12.pdf) |
 | 2022-01 | Deploying Scalable Machine Learning for Data Science | [View](linkedin-learning/certificate-linkedin-deploying-scalable-ml-for-data-science_saad_2022-01.pdf) |
 | 2022-01 | Docker for Data Scientists | [View](linkedin-learning/certificate-linkedin-docker-for-data-scientists_saad_2022-01.pdf) |
 | 2022-01 | SQL for Exploratory Data Analysis Essential Training | [View](linkedin-learning/certificate-linkedin-sql-for-exploratory-data-analysis_saad_2022-01.pdf) |
@@ -320,6 +322,12 @@ Generated from a private list; please don't open pull requests.
 | Date | Credential | Link |
 |---|---|---|
 | 2020-08 | Data Analytics Consulting Virtual Internship | [View](kpmg/certificate-kpmg-data-analytics-consulting-virtual-internship_saad_2020-08.png) |
+
+## Santander Open Academy
+
+| Date | Credential | Link |
+|---|---|---|
+| 2024-08 | Google: Artificial intelligence and productivity | [View](santander/certificate-santander-google-ai-and-productivity_saad_2024-08.pdf) |
 
 ## Secure Code Warrior
 
